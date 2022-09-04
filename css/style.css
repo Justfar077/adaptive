@@ -475,7 +475,7 @@ and (max-width: 900px){
 		top: 20px;
 		right: 20px;
 	}
-	.btn-burger swg * {
+	.btn-burger svg * {
 		fill: #fff;
 	}
 }
