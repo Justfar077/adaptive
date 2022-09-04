@@ -454,14 +454,14 @@ and (max-width: 900px){
 	.header{
 		position: fixed;
 		padding: 20px 20px 0;
-		min-height: 100vh;
+		/* min-height: 100vh; */
 	}
 	.logo{
 		display: none;
 		margin-bottom: 48px;
 	}
 	.menu-open .logo {
-		display: block;
+		display: inline-block;
 	}
 	.logo svg{
 		width: 54px;
